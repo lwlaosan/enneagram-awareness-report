@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+
+# 原始学员觉察报告
+/【日期】2026年 11 月 7 日
